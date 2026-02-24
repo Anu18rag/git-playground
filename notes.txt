@@ -1,0 +1,3 @@
+This is note file.
+Git is distributed version control system
+Used track code changes
