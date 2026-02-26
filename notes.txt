@@ -7,3 +7,4 @@ It track files and hold history.
 [FEATURE] Version from conflict-test
 
 Temp change - should be discarded
+This change will be staged
