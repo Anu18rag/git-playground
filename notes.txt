@@ -8,3 +8,4 @@ It track files and hold history.
 
 Temp change - should be discarded
 This change will be staged
+Stash change in notes
